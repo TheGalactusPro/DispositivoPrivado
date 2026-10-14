@@ -1,7 +1,7 @@
 package dispositivo;
 
 public class MainDispositivo {
-    public static void main(String[] args) {
+    public static void main() {
         Dispositivo d1 = new Dispositivo();
         Dispositivo d2 = new Dispositivo();
 
